@@ -14,7 +14,7 @@ Meditative breathing in your terminal.
 - **Auto-Termination**: Session automatically ends after a set duration.
 - **Customizable**: Adjustable duration and breathing pattern.
 
-## Visual Represenation
+## Visual Representation
 
 ```text
 
