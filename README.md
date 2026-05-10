@@ -2,6 +2,18 @@
 
 Meditative breathing in your terminal.
 
+
+```text
+
+        •  •  •
+     •          •
+    •   INHALE   •
+     •          •
+        •  •  •
+
+[=========           ]
+```
+
 ## Features
 
 - **Visual Breathing Guide**: A pulsing ASCII circle that scales with your breath.
@@ -33,16 +45,3 @@ python3 meditate.py --pattern relax --duration 10
 
 - `--pattern`: Choose between `box` (default) or `relax`.
 - `--duration`: Set the session length in minutes (default: 5.0).
-
-## Visual Example
-
-```text
-
-        •  •  •
-     •          •
-    •   INHALE   •
-     •          •
-        •  •  •
-
-[=========           ]
-```
