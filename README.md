@@ -11,7 +11,8 @@ Meditative breathing in your terminal.
      •          •
         •  •  •
 
-[=========           ]
+
+   [========      ]
 ```
 
 ## Features
