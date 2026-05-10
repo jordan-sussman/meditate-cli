@@ -2,6 +2,19 @@
 
 Meditative breathing in your terminal.
 
+## Features
+
+- **Visual Breathing Guide**: A pulsing ASCII circle that scales with your breath.
+- **Predefined Patterns**:
+  - `box`: Box Breathing (4-4-4-4).
+  - `relax`: 4-7-8 Relaxing Breath.
+  - `equal`: Equal Breathing (4-4).
+  - `coherent`: Coherent Breathing (5-5).
+  - `triangle`: Triangle Breathing (4-4-4).
+- **Auto-Termination**: Session automatically ends after a set duration.
+- **Customizable**: Adjustable duration and breathing pattern.
+
+## Visual Represenation
 
 ```text
 
@@ -14,18 +27,6 @@ Meditative breathing in your terminal.
 
    [========      ]
 ```
-
-## Features
-
-- **Visual Breathing Guide**: A pulsing ASCII circle that scales with your breath.
-- **Predefined Patterns**:
-  - `box`: Box Breathing (4-4-4-4).
-  - `relax`: 4-7-8 Relaxing Breath.
-  - `equal`: Equal Breathing (4-4).
-  - `coherent`: Coherent Breathing (5-5).
-  - `triangle`: Triangle Breathing (4-4-4).
-- **Auto-Termination**: Session automatically ends after a set duration.
-- **Customizable**: Adjustable duration and breathing pattern.
 
 ## Usage
 
